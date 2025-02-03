@@ -1,0 +1,34 @@
+C:\Users\Rafael\source\repos\Pi-Projeto Integrador\Pi-Projeto Integrador\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Rafael\source\repos\Pi-Projeto Integrador\Pi-Projeto Integrador\bin\Debug\net8.0\appsettings.json
+C:\Users\Rafael\source\repos\Pi-Projeto Integrador\Pi-Projeto Integrador\bin\Debug\net8.0\Pi-Projeto Integrador.staticwebassets.runtime.json
+C:\Users\Rafael\source\repos\Pi-Projeto Integrador\Pi-Projeto Integrador\bin\Debug\net8.0\Pi-Projeto Integrador.staticwebassets.endpoints.json
+C:\Users\Rafael\source\repos\Pi-Projeto Integrador\Pi-Projeto Integrador\bin\Debug\net8.0\Pi-Projeto Integrador.exe
+C:\Users\Rafael\source\repos\Pi-Projeto Integrador\Pi-Projeto Integrador\bin\Debug\net8.0\Pi-Projeto Integrador.deps.json
+C:\Users\Rafael\source\repos\Pi-Projeto Integrador\Pi-Projeto Integrador\bin\Debug\net8.0\Pi-Projeto Integrador.runtimeconfig.json
+C:\Users\Rafael\source\repos\Pi-Projeto Integrador\Pi-Projeto Integrador\bin\Debug\net8.0\Pi-Projeto Integrador.dll
+C:\Users\Rafael\source\repos\Pi-Projeto Integrador\Pi-Projeto Integrador\bin\Debug\net8.0\Pi-Projeto Integrador.pdb
+C:\Users\Rafael\source\repos\Pi-Projeto Integrador\Pi-Projeto Integrador\obj\Debug\net8.0\Pi-Projeto Integrador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\source\repos\Pi-Projeto Integrador\Pi-Projeto Integrador\obj\Debug\net8.0\Pi-Projeto Integrador.AssemblyInfoInputs.cache
+C:\Users\Rafael\source\repos\Pi-Projeto Integrador\Pi-Projeto Integrador\obj\Debug\net8.0\Pi-Projeto Integrador.AssemblyInfo.cs
+C:\Users\Rafael\source\repos\Pi-Projeto Integrador\Pi-Projeto Integrador\obj\Debug\net8.0\Pi-Projeto Integrador.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\Pi-Projeto Integrador\Pi-Projeto Integrador\obj\Debug\net8.0\Pi-Projeto Integrador.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rafael\source\repos\Pi-Projeto Integrador\Pi-Projeto Integrador\obj\Debug\net8.0\Pi-Projeto Integrador.RazorAssemblyInfo.cache
+C:\Users\Rafael\source\repos\Pi-Projeto Integrador\Pi-Projeto Integrador\obj\Debug\net8.0\Pi-Projeto Integrador.RazorAssemblyInfo.cs
+C:\Users\Rafael\source\repos\Pi-Projeto Integrador\Pi-Projeto Integrador\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Rafael\source\repos\Pi-Projeto Integrador\Pi-Projeto Integrador\obj\Debug\net8.0\scopedcss\bundle\Pi-Projeto Integrador.styles.css
+C:\Users\Rafael\source\repos\Pi-Projeto Integrador\Pi-Projeto Integrador\obj\Debug\net8.0\scopedcss\projectbundle\Pi-Projeto Integrador.bundle.scp.css
+C:\Users\Rafael\source\repos\Pi-Projeto Integrador\Pi-Projeto Integrador\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Rafael\source\repos\Pi-Projeto Integrador\Pi-Projeto Integrador\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Rafael\source\repos\Pi-Projeto Integrador\Pi-Projeto Integrador\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Rafael\source\repos\Pi-Projeto Integrador\Pi-Projeto Integrador\obj\Debug\net8.0\staticwebassets\msbuild.Pi-Projeto Integrador.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rafael\source\repos\Pi-Projeto Integrador\Pi-Projeto Integrador\obj\Debug\net8.0\staticwebassets\msbuild.Pi-Projeto Integrador.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Rafael\source\repos\Pi-Projeto Integrador\Pi-Projeto Integrador\obj\Debug\net8.0\staticwebassets\msbuild.build.Pi-Projeto Integrador.props
+C:\Users\Rafael\source\repos\Pi-Projeto Integrador\Pi-Projeto Integrador\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Pi-Projeto Integrador.props
+C:\Users\Rafael\source\repos\Pi-Projeto Integrador\Pi-Projeto Integrador\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Pi-Projeto Integrador.props
+C:\Users\Rafael\source\repos\Pi-Projeto Integrador\Pi-Projeto Integrador\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Rafael\source\repos\Pi-Projeto Integrador\Pi-Projeto Integrador\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Rafael\source\repos\Pi-Projeto Integrador\Pi-Projeto Integrador\obj\Debug\net8.0\Pi-Projeto Integrador.dll
+C:\Users\Rafael\source\repos\Pi-Projeto Integrador\Pi-Projeto Integrador\obj\Debug\net8.0\refint\Pi-Projeto Integrador.dll
+C:\Users\Rafael\source\repos\Pi-Projeto Integrador\Pi-Projeto Integrador\obj\Debug\net8.0\Pi-Projeto Integrador.pdb
+C:\Users\Rafael\source\repos\Pi-Projeto Integrador\Pi-Projeto Integrador\obj\Debug\net8.0\Pi-Projeto Integrador.genruntimeconfig.cache
+C:\Users\Rafael\source\repos\Pi-Projeto Integrador\Pi-Projeto Integrador\obj\Debug\net8.0\ref\Pi-Projeto Integrador.dll

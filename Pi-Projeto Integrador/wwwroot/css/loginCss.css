@@ -1,0 +1,49 @@
+﻿htm, body {
+    height: 100vh;
+    margin: 0;
+    background: #4643cb;
+    background: linear-gradient(312deg,#4643cb 50%, #7c79f2 100%);
+    background: -webkit-linear-gradient(312deg,#4643cb 50%, #7c79f2 100%);
+    background: -moz-linear-gradient(312deg,#4643cb 50%, #7c79f2 100%);
+}
+.container-login {
+    margin-top:10rem;
+    height: 30rem;
+    width: 50rem;
+    position: relative;
+}
+
+.more-info {
+    position: absolute;
+    width: 16.4rem;
+    height: 30rem;
+    left: 0;
+    background-color: #43cb9d;
+    border-radius: 1rem;
+}
+
+.login {
+    border-radius: 1rem;
+    position: absolute;
+    height: 30rem;
+    width: 35rem;
+    right: 0;
+    background-color:#ffff;
+}
+
+.logo {
+    z-index: 1;
+    position: absolute;
+    height: 8rem;
+    width: 8rem;
+    top: 0%;
+    left: 64%;
+    transform: translate(-50%, -50%);
+    background-color: black;
+    border-radius: 50%;
+}
+.form-login
+{
+    width:20rem;
+    height:20rem;
+}

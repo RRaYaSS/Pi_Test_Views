@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Pi-Projeto Integrador/1.0.0": {
+        "runtime": {
+          "Pi-Projeto Integrador.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pi-Projeto Integrador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

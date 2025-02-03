@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Pi-Projeto Integrador.props" />
+</Project>
