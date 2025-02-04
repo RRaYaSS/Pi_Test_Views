@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Rafael\\source\\repos\\Pi-Projeto Integrador\\",
+  "WorkspaceRootPath": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\Pi_Test_Views\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0416C4F-8034-48D9-9CFF-339F3C95A9E6}|Pi-Projeto Integrador\\Pi-Projeto Integrador.csproj|c:\\users\\rafael\\source\\repos\\pi-projeto integrador\\pi-projeto integrador\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E0416C4F-8034-48D9-9CFF-339F3C95A9E6}|Pi-Projeto Integrador\\Pi-Projeto Integrador.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\pi_test_views\\pi-projeto integrador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0416C4F-8034-48D9-9CFF-339F3C95A9E6}|Pi-Projeto Integrador\\Pi-Projeto Integrador.csproj|solutionrelative:pi-projeto integrador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0416C4F-8034-48D9-9CFF-339F3C95A9E6}|Pi-Projeto Integrador\\Pi-Projeto Integrador.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\pi_test_views\\pi-projeto integrador\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0416C4F-8034-48D9-9CFF-339F3C95A9E6}|Pi-Projeto Integrador\\Pi-Projeto Integrador.csproj|solutionrelative:pi-projeto integrador\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0416C4F-8034-48D9-9CFF-339F3C95A9E6}|Pi-Projeto Integrador\\Pi-Projeto Integrador.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\pi_test_views\\pi-projeto integrador\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E0416C4F-8034-48D9-9CFF-339F3C95A9E6}|Pi-Projeto Integrador\\Pi-Projeto Integrador.csproj|solutionrelative:pi-projeto integrador\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0416C4F-8034-48D9-9CFF-339F3C95A9E6}|Pi-Projeto Integrador\\Pi-Projeto Integrador.csproj|c:\\users\\rafael\\source\\repos\\pi-projeto integrador\\pi-projeto integrador\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E0416C4F-8034-48D9-9CFF-339F3C95A9E6}|Pi-Projeto Integrador\\Pi-Projeto Integrador.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\pi_test_views\\pi-projeto integrador\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E0416C4F-8034-48D9-9CFF-339F3C95A9E6}|Pi-Projeto Integrador\\Pi-Projeto Integrador.csproj|solutionrelative:pi-projeto integrador\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0416C4F-8034-48D9-9CFF-339F3C95A9E6}|Pi-Projeto Integrador\\Pi-Projeto Integrador.csproj|c:\\users\\rafael\\source\\repos\\pi-projeto integrador\\pi-projeto integrador\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E0416C4F-8034-48D9-9CFF-339F3C95A9E6}|Pi-Projeto Integrador\\Pi-Projeto Integrador.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\pi_test_views\\pi-projeto integrador\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E0416C4F-8034-48D9-9CFF-339F3C95A9E6}|Pi-Projeto Integrador\\Pi-Projeto Integrador.csproj|solutionrelative:pi-projeto integrador\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0416C4F-8034-48D9-9CFF-339F3C95A9E6}|Pi-Projeto Integrador\\Pi-Projeto Integrador.csproj|c:\\users\\rafael\\source\\repos\\pi-projeto integrador\\pi-projeto integrador\\wwwroot\\css\\logincss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{E0416C4F-8034-48D9-9CFF-339F3C95A9E6}|Pi-Projeto Integrador\\Pi-Projeto Integrador.csproj|solutionrelative:pi-projeto integrador\\wwwroot\\css\\logincss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0416C4F-8034-48D9-9CFF-339F3C95A9E6}|Pi-Projeto Integrador\\Pi-Projeto Integrador.csproj|c:\\users\\rafael\\source\\repos\\pi-projeto integrador\\pi-projeto integrador\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E0416C4F-8034-48D9-9CFF-339F3C95A9E6}|Pi-Projeto Integrador\\Pi-Projeto Integrador.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\pi_test_views\\pi-projeto integrador\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E0416C4F-8034-48D9-9CFF-339F3C95A9E6}|Pi-Projeto Integrador\\Pi-Projeto Integrador.csproj|solutionrelative:pi-projeto integrador\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0416C4F-8034-48D9-9CFF-339F3C95A9E6}|Pi-Projeto Integrador\\Pi-Projeto Integrador.csproj|c:\\users\\rafael\\source\\repos\\pi-projeto integrador\\pi-projeto integrador\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E0416C4F-8034-48D9-9CFF-339F3C95A9E6}|Pi-Projeto Integrador\\Pi-Projeto Integrador.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\pi_test_views\\pi-projeto integrador\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E0416C4F-8034-48D9-9CFF-339F3C95A9E6}|Pi-Projeto Integrador\\Pi-Projeto Integrador.csproj|solutionrelative:pi-projeto integrador\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0416C4F-8034-48D9-9CFF-339F3C95A9E6}|Pi-Projeto Integrador\\Pi-Projeto Integrador.csproj|c:\\users\\rafael\\source\\repos\\pi-projeto integrador\\pi-projeto integrador\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{E0416C4F-8034-48D9-9CFF-339F3C95A9E6}|Pi-Projeto Integrador\\Pi-Projeto Integrador.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\pi_test_views\\pi-projeto integrador\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{E0416C4F-8034-48D9-9CFF-339F3C95A9E6}|Pi-Projeto Integrador\\Pi-Projeto Integrador.csproj|solutionrelative:pi-projeto integrador\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0416C4F-8034-48D9-9CFF-339F3C95A9E6}|Pi-Projeto Integrador\\Pi-Projeto Integrador.csproj|c:\\users\\rafael\\source\\repos\\pi-projeto integrador\\pi-projeto integrador\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0416C4F-8034-48D9-9CFF-339F3C95A9E6}|Pi-Projeto Integrador\\Pi-Projeto Integrador.csproj|solutionrelative:pi-projeto integrador\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,132 +42,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Rafael\\source\\repos\\Pi-Projeto Integrador\\Pi-Projeto Integrador\\Views\\Login\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\Pi_Test_Views\\Pi-Projeto Integrador\\Views\\Login\\Index.cshtml",
               "RelativeDocumentMoniker": "Pi-Projeto Integrador\\Views\\Login\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Rafael\\source\\repos\\Pi-Projeto Integrador\\Pi-Projeto Integrador\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\Pi_Test_Views\\Pi-Projeto Integrador\\Views\\Login\\Index.cshtml",
               "RelativeToolTip": "Pi-Projeto Integrador\\Views\\Login\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-03T15:22:04.597Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Rafael\\source\\repos\\Pi-Projeto Integrador\\Pi-Projeto Integrador\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Pi-Projeto Integrador\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Rafael\\source\\repos\\Pi-Projeto Integrador\\Pi-Projeto Integrador\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Pi-Projeto Integrador\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-03T15:32:36.672Z",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\Pi_Test_Views\\Pi-Projeto Integrador\\Program.cs",
+              "RelativeDocumentMoniker": "Pi-Projeto Integrador\\Program.cs",
+              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\Pi_Test_Views\\Pi-Projeto Integrador\\Program.cs",
+              "RelativeToolTip": "Pi-Projeto Integrador\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T04:06:29.772Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Rafael\\source\\repos\\Pi-Projeto Integrador\\Pi-Projeto Integrador\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Pi-Projeto Integrador\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Rafael\\source\\repos\\Pi-Projeto Integrador\\Pi-Projeto Integrador\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Pi-Projeto Integrador\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\Pi_Test_Views\\Pi-Projeto Integrador\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pi-Projeto Integrador\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\Pi_Test_Views\\Pi-Projeto Integrador\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pi-Projeto Integrador\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-03T15:32:14.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T15:32:36.672Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Rafael\\source\\repos\\Pi-Projeto Integrador\\Pi-Projeto Integrador\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Pi-Projeto Integrador\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Rafael\\source\\repos\\Pi-Projeto Integrador\\Pi-Projeto Integrador\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Pi-Projeto Integrador\\Views\\_ViewImports.cshtml",
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\Pi_Test_Views\\Pi-Projeto Integrador\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Pi-Projeto Integrador\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\Pi_Test_Views\\Pi-Projeto Integrador\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Pi-Projeto Integrador\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-03T15:32:26.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Rafael\\source\\repos\\Pi-Projeto Integrador\\Pi-Projeto Integrador\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "Pi-Projeto Integrador\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Rafael\\source\\repos\\Pi-Projeto Integrador\\Pi-Projeto Integrador\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "Pi-Projeto Integrador\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-03T15:30:25.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T15:32:14.165Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Rafael\\source\\repos\\Pi-Projeto Integrador\\Pi-Projeto Integrador\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pi-Projeto Integrador\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Rafael\\source\\repos\\Pi-Projeto Integrador\\Pi-Projeto Integrador\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Pi-Projeto Integrador\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\Pi_Test_Views\\Pi-Projeto Integrador\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Pi-Projeto Integrador\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\Pi_Test_Views\\Pi-Projeto Integrador\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Pi-Projeto Integrador\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-03T15:28:26.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T15:32:26.653Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\Rafael\\source\\repos\\Pi-Projeto Integrador\\Pi-Projeto Integrador\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "Pi-Projeto Integrador\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\Rafael\\source\\repos\\Pi-Projeto Integrador\\Pi-Projeto Integrador\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "Pi-Projeto Integrador\\Controllers\\LoginController.cs",
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\Pi_Test_Views\\Pi-Projeto Integrador\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Pi-Projeto Integrador\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\Pi_Test_Views\\Pi-Projeto Integrador\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Pi-Projeto Integrador\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T15:28:18.268Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "69392a39-3ede-4b4c-a278-41a8fca843cd",
-        "Display": 0,
-        "X": 345,
-        "Y": 324,
-        "Width": 2193,
-        "Height": 993,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-03T15:30:25.63Z"
+            },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "loginCss.css",
-              "DocumentMoniker": "C:\\Users\\Rafael\\source\\repos\\Pi-Projeto Integrador\\Pi-Projeto Integrador\\wwwroot\\css\\loginCss.css",
-              "RelativeDocumentMoniker": "Pi-Projeto Integrador\\wwwroot\\css\\loginCss.css",
-              "ToolTip": "C:\\Users\\Rafael\\source\\repos\\Pi-Projeto Integrador\\Pi-Projeto Integrador\\wwwroot\\css\\loginCss.css",
-              "RelativeToolTip": "Pi-Projeto Integrador\\wwwroot\\css\\loginCss.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-03T15:30:20.622Z",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\Pi_Test_Views\\Pi-Projeto Integrador\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pi-Projeto Integrador\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\Pi_Test_Views\\Pi-Projeto Integrador\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Pi-Projeto Integrador\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T15:28:26.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\Pi_Test_Views\\Pi-Projeto Integrador\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Pi-Projeto Integrador\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\Pi_Test_Views\\Pi-Projeto Integrador\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Pi-Projeto Integrador\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T15:28:18.268Z",
               "EditorCaption": ""
             }
           ]

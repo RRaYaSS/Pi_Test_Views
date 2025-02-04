@@ -1,0 +1,12 @@
+create database dbCondominio
+
+use dbCondominio
+
+CREATE TABLE cadUsuarios(
+cdUsuario int  primary key identity(1,1),
+usuarioLogin varchar(256),
+senha varchar(256),
+dtCriacao datetime,
+usuarioC int,
+)
+

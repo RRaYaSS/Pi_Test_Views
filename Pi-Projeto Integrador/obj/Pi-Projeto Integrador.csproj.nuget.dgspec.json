@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rafael\\source\\repos\\Pi-Projeto Integrador\\Pi-Projeto Integrador\\Pi-Projeto Integrador.csproj": {}
+    "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\Pi_Test_Views\\Pi-Projeto Integrador\\Pi-Projeto Integrador.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rafael\\source\\repos\\Pi-Projeto Integrador\\Pi-Projeto Integrador\\Pi-Projeto Integrador.csproj": {
+    "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\Pi_Test_Views\\Pi-Projeto Integrador\\Pi-Projeto Integrador.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rafael\\source\\repos\\Pi-Projeto Integrador\\Pi-Projeto Integrador\\Pi-Projeto Integrador.csproj",
+        "projectUniqueName": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\Pi_Test_Views\\Pi-Projeto Integrador\\Pi-Projeto Integrador.csproj",
         "projectName": "Pi-Projeto Integrador",
-        "projectPath": "C:\\Users\\Rafael\\source\\repos\\Pi-Projeto Integrador\\Pi-Projeto Integrador\\Pi-Projeto Integrador.csproj",
-        "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rafael\\source\\repos\\Pi-Projeto Integrador\\Pi-Projeto Integrador\\obj\\",
+        "projectPath": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\Pi_Test_Views\\Pi-Projeto Integrador\\Pi-Projeto Integrador.csproj",
+        "packagesPath": "C:\\Users\\Arthur Cruz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\Pi_Test_Views\\Pi-Projeto Integrador\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Arthur Cruz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,12 +44,29 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -69,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
