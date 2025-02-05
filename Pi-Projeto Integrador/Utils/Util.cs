@@ -3,7 +3,7 @@ using System.Text;
 
 namespace Pi_Projeto_Integrador.Utils
 {
-    //classe util, adicionar funções estáticas que podem ajudar no sistema, como máscaras, retornos de formatação de string, cáculos ou o que vocês quiserem aqui
+    //classe util, adicionar funções que podem ajudar no sistema, como máscaras, retornos de formatação de string, cáculos ou o que vocês quiserem aqui
 
 
     public class Util

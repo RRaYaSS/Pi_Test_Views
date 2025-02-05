@@ -11,13 +11,14 @@ namespace Pi_Projeto_Integrador.Controllers
 
     public class LoginController : Controller
     {
-        private ControleEstoqueContext db;
+        public ControleEstoqueContext db = new ControleEstoqueContext();
+
 
         Util util = new Util();
 
         public LoginController(ControleEstoqueContext db_)
         {
-            db_ = db ;
+            db = db_ ;
 
         }
         public IActionResult Index()
@@ -31,9 +32,9 @@ namespace Pi_Projeto_Integrador.Controllers
 
             try
             {
-                var encryptedPassoword = util.Md5Encode(password);
+                password = util.Md5Encode(password);
 
-                var user = db.cadUsuarios.Where(a => a.usuarioLogin == username && a.senha == encryptedPassoword).FirstOrDefault();
+                var user = db.cadUsuarios.Where(a => a.usuarioLogin == username && a.senha == password).FirstOrDefault();
 
                 if (user == null) throw new Exception("Usuário não encontrado ou senha incorreta");
 
@@ -46,19 +47,19 @@ namespace Pi_Projeto_Integrador.Controllers
             }
 
 
-           
-                //var claims = new List<Claim>
-                //{
-                //    new Claim(ClaimTypes.Name, username),
-                //    new Claim(ClaimTypes.Role, "Admin") // Define a role do usuário
-                //};
 
-                //var identity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
-                //var principal = new ClaimsPrincipal(identity);
+            //var claims = new List<Claim>
+            //{
+            //    new Claim(ClaimTypes.Name, username),
+            //    new Claim(ClaimTypes.Role, "Admin")
+            //};
 
-                //await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, principal);
+            //var identity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
+            //var principal = new ClaimsPrincipal(identity);
 
-                return RedirectToAction("index", "Home");
+            //await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, principal);
+
+            return RedirectToAction("index", "Home");
 
 
             return View();

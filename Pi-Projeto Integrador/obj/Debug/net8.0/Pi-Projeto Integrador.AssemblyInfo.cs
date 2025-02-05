@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pi-Projeto Integrador")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e12a9e594435ddb52437a5a0084db95851b2ec0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+321a0e2a7a46b1b9049da05259ec6ab37bb8ed35")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pi-Projeto Integrador")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pi-Projeto Integrador")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
