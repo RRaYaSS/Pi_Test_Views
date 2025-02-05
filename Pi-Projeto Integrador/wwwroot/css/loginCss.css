@@ -5,9 +5,13 @@
     background: linear-gradient(312deg,#4643cb 50%, #7c79f2 100%);
     background: -webkit-linear-gradient(312deg,#4643cb 50%, #7c79f2 100%);
     background: -moz-linear-gradient(312deg,#4643cb 50%, #7c79f2 100%);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    overflow: hidden;
 }
 .container-login {
-    margin-top:10rem;
+    margin-top: 10rem;
     height: 30rem;
     width: 50rem;
     position: relative;
@@ -46,4 +50,65 @@
 {
     width:20rem;
     height:20rem;
+}
+
+@media (max-width:768px) {
+    htm, body {
+        height: 100vh;
+        margin: 0;
+        margin-top
+        background: #4643cb;
+        background: linear-gradient(312deg,#4643cb 50%, #7c79f2 100%);
+        background: -webkit-linear-gradient(312deg,#4643cb 50%, #7c79f2 100%);
+        background: -moz-linear-gradient(312deg,#4643cb 50%, #7c79f2 100%);
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+        overflow:hidden;
+    }
+
+    .container-login {
+        margin-top: 10rem;
+        height: 45rem;
+        width: 20rem;
+        position: relative;
+    }
+
+    .more-info {
+        font-size: 16px;
+        position: absolute;
+        top: 0;
+        width: 20rem;
+        height: 20rem;
+        background-color: #43cb9d;
+    }
+    .more-info div
+    {
+        margin-top:1rem;
+    }
+
+    .login {
+        position: absolute;
+        bottom:0;
+        height: 27rem;
+        width: 20rem;
+        background-color:#ffffff;
+    }
+
+    .logo {
+        z-index: 1;
+        position: absolute;
+        height: 6rem;
+        width: 6rem;
+        top: 0%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-color: black;
+        border-radius: 50%;
+    }
+
+    .form-login {
+        width: 0rem;
+        height: 10rem;
+    }
 }
